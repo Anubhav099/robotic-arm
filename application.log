@@ -1,0 +1,32 @@
+[:0]: QFSFileEngine::open: No file name specified
+[:0]: Cannot open file '', because: No file name specified
+[:0]: QFSFileEngine::open: No file name specified
+[:0]: Cannot open file '', because: No file name specified
+[:0]: QFSFileEngine::open: No file name specified
+[:0]: Cannot open file '', because: No file name specified
+[:0]: QFSFileEngine::open: No file name specified
+[:0]: Cannot open file '', because: No file name specified
+[sources\document.cc:1557]: uiReady
+[sources\document.cc:2296]: Mesh generating..
+[sources\mesh_generator.cc:100]: The mesh generation took 0 milliseconds
+[sources\document_window.cc:876]: [ 0 ]item.name: model.xml item.type: model
+[sources\document_window.cc:876]: [ 1 ]item.name: canvas.png item.type: asset
+[:0]: libpng warning: iCCP: known incorrect sRGB profile
+[:0]: libpng warning: known incorrect sRGB profile
+[:0]: libpng warning: profile matches sRGB but writing iCCP instead
+[sources\document.cc:2245]: Mesh generation done
+[sources\document.cc:2336]: UV mapping generating..
+[sources\document.cc:2296]: Mesh generating..
+[sources\mesh_generator.cc:100]: The mesh generation took 38 milliseconds
+[sources\document.cc:2245]: Mesh generation done
+[sources\document.cc:2375]: UV mapping generation done(meshId: 0 )
+[sources\document.cc:2336]: UV mapping generating..
+[sources\document.cc:2375]: UV mapping generation done(meshId: 1 )
+[sources\document.cc:2336]: UV mapping generating..
+[sources\document.cc:2375]: UV mapping generation done(meshId: 1 )
+[sources\document.cc:2336]: UV mapping generating..
+[sources\document.cc:2375]: UV mapping generation done(meshId: 1 )
+[sources\document.cc:2336]: UV mapping generating..
+[sources\document.cc:2375]: UV mapping generation done(meshId: 1 )
+[sources\document.cc:2336]: UV mapping generating..
+[sources\document.cc:2375]: UV mapping generation done(meshId: 1 )
