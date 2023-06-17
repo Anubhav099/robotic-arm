@@ -1,11 +1,11 @@
 Ó=DUST3D 1.0 xml 0000000193
 <?xml version="1.0" encoding="UTF-8"?>
 <ds3>
-    <model name="model.xml" offset="0" size="14355"/>
-    <asset name="canvas.png" offset="14355" size="4107"/>
+    <model name="model.xml" offset="0" size="14619"/>
+    <asset name="canvas.png" offset="14619" size="4107"/>
 </ds3>
 <?xml version="1.0" encoding="UTF-8"?>
-<canvas originX="1.487101" originY="0.554180" originZ="0.262642">
+<canvas originX="1.486069" originY="0.528380" originZ="0.263674">
  <nodes>
   <node id="{045d4853-11bc-78b2-b0df-67dd878b9cab}" partId="{2a2144d7-084b-5b02-2603-239ea05b411d}" radius="0.012352" x="1.512384" y="0.837675" z="0.806770"/>
   <node id="{0ec56603-316b-b8f4-1975-7b32ea45488e}" partId="{e0cf8cf4-3b9f-0342-ddab-634110431e36}" radius="0.014416" x="1.483488" y="0.889662" z="0.734860"/>
@@ -85,21 +85,25 @@
   <part chamfered="true" cutRotation="0.100000" deformUnified="true" disabled="false" id="{ee25b05e-f38d-5509-e485-2050049590bc}" locked="false" rounded="true" subdived="true" visible="true" xMirrored="false"/>
  </parts>
  <components>
-  <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{03c53536-f593-897b-3cd1-c503286ef8c7}" linkData="{e0cf8cf4-3b9f-0342-ddab-634110431e36}" linkDataType="partId">
-  </component>
-  <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{aaa7f5a5-852a-edb7-9b86-091e21938923}" linkData="{52b26dce-6045-65a1-f8f9-8dbd485c42ea}" linkDataType="partId">
-  </component>
-  <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{b8252535-22c0-73b8-f11b-4e3d5874936d}" linkData="{8e5f235a-436c-4852-2dc8-7ac769a67cd8}" linkDataType="partId">
-  </component>
-  <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{93f7f462-4686-4c4a-ada6-2de437778ed7}" linkData="{7adce6f7-f5eb-7033-7e2b-c1b644a3f22b}" linkDataType="partId">
-  </component>
-  <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{ee6555d9-7b03-f6f6-1adf-92cbb109cb61}" linkData="{2a2144d7-084b-5b02-2603-239ea05b411d}" linkDataType="partId">
+  <component combineMode="Normal" expanded="true" id="{8b13190b-af3c-5c19-7553-9a75daf33312}" name="Group 1">
+   <component combineMode="Uncombined" expanded="true" id="{d770fd25-07db-461a-b634-0330746bea36}" linkData="{d9c2fc16-0696-dde7-6329-a1f254dda427}" linkDataType="partId">
+   </component>
+   <component combineMode="Uncombined" expanded="true" id="{963b1fbd-427b-5bae-1b47-8cab6de176f2}" linkData="{ee25b05e-f38d-5509-e485-2050049590bc}" linkDataType="partId">
+   </component>
   </component>
   <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{4c594da4-8543-409f-c283-337902c015ca}" linkData="{13fa3590-328f-71f8-aca2-21f00c7e4b57}" linkDataType="partId">
   </component>
-  <component combineMode="Uncombined" expanded="true" id="{d770fd25-07db-461a-b634-0330746bea36}" linkData="{d9c2fc16-0696-dde7-6329-a1f254dda427}" linkDataType="partId">
-  </component>
-  <component combineMode="Uncombined" expanded="true" id="{963b1fbd-427b-5bae-1b47-8cab6de176f2}" linkData="{ee25b05e-f38d-5509-e485-2050049590bc}" linkDataType="partId">
+  <component combineMode="Normal" expanded="true" id="{803945fd-ed25-3bdc-714c-de719d836607}" name="Group 2">
+   <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{03c53536-f593-897b-3cd1-c503286ef8c7}" linkData="{e0cf8cf4-3b9f-0342-ddab-634110431e36}" linkDataType="partId">
+   </component>
+   <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{aaa7f5a5-852a-edb7-9b86-091e21938923}" linkData="{52b26dce-6045-65a1-f8f9-8dbd485c42ea}" linkDataType="partId">
+   </component>
+   <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{b8252535-22c0-73b8-f11b-4e3d5874936d}" linkData="{8e5f235a-436c-4852-2dc8-7ac769a67cd8}" linkDataType="partId">
+   </component>
+   <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{93f7f462-4686-4c4a-ada6-2de437778ed7}" linkData="{7adce6f7-f5eb-7033-7e2b-c1b644a3f22b}" linkDataType="partId">
+   </component>
+   <component color="#ffffffff" combineMode="Uncombined" expanded="true" id="{ee6555d9-7b03-f6f6-1adf-92cbb109cb61}" linkData="{2a2144d7-084b-5b02-2603-239ea05b411d}" linkDataType="partId">
+   </component>
   </component>
  </components>
 </canvas>
